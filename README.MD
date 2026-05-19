@@ -68,7 +68,7 @@ Customer support teams receive hundreds of emails daily. This tool automates the
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-email-organizer.git
+git clone https://github.com/Dina-K/ai-email-organizer.git
 cd ai-email-organizer
 ```
 
